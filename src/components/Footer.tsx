@@ -25,7 +25,8 @@ export const Footer = () => {
               <Facebook className="w-6 h-6" />
             </a>
             <a 
-              href="https://instagram.com" 
+              // href="https://instagram.com" 
+                href="https://www.instagram.com/maa_krupa_decoration_mall_nvs/?hl=en"   
               target="_blank" 
               rel="noopener noreferrer"
               className="w-12 h-12 rounded-full bg-primary-foreground/10 flex items-center justify-center hover:bg-primary-foreground/20 transition-all duration-300 hover:scale-110"
