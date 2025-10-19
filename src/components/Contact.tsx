@@ -46,7 +46,7 @@ export const Contact = () => {
           <div className="space-y-8 animate-fade-in">
             <div className="bg-gradient-card rounded-lg p-8 shadow-card">
               <h3 className="text-2xl font-semibold text-foreground mb-6">Contact Information</h3>
-              
+
               <div className="space-y-6">
                 <div className="flex items-start gap-4">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center">
@@ -55,9 +55,9 @@ export const Contact = () => {
                   <div>
                     <h4 className="font-semibold text-foreground mb-1">Visit Us</h4>
                     <p className="text-muted-foreground">
-                      MAA KRUPA DECORATION MALL<br />
-                      Main Market Area<br />
-                      Your City, State - 123456
+                      Shop no 1 to 8, Nilkanth recidency,
+                      opp. mahendra brothers, Prem Nagar Society, Vrundavan Society
+                      , Jamalpore, Navsari, Chhapra Part, Gujarat 396427
                     </p>
                   </div>
                 </div>
@@ -69,8 +69,8 @@ export const Contact = () => {
                   <div>
                     <h4 className="font-semibold text-foreground mb-1">Call Us</h4>
                     <p className="text-muted-foreground">
-                      +91 98765 43210<br />
-                      +91 98765 43211
+                        +91  93169 66692<br />
+                      +91 98765 xxxxx
                     </p>
                   </div>
                 </div>
@@ -154,10 +154,10 @@ export const Contact = () => {
                 />
               </div>
 
-              <Button 
-                type="submit" 
-                variant="hero" 
-                size="lg" 
+              <Button
+                type="submit"
+                variant="hero"
+                size="lg"
                 className="w-full gap-2"
               >
                 <Send className="w-5 h-5" />
