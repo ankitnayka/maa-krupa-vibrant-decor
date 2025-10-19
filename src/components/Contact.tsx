@@ -57,7 +57,7 @@ export const Contact = () => {
                     <p className="text-muted-foreground">
                       Shop no 1 to 8, Nilkanth recidency,
                       opp. mahendra brothers, Prem Nagar Society, Vrundavan Society
-                      , Jamalpore, Navsari, Chhapra Part, Gujarat 396427
+                      , Jamalpore, Navsari, Gujarat 396427
                     </p>
                   </div>
                 </div>
