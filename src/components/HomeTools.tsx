@@ -6,23 +6,23 @@ export const HomeTools = () => {
   const homeItems = [
     {
       image: disposableImage,
-      title: "Disposable Items",
-      description: "Disposable glass, dish, dabba, container, and fiber glass dishes"
+      title: "Trending Items",
+      description: "Latest trending decorations, viral showpieces, and popular gift items"
     },
     {
       image: tissueImage,
-      title: "Tissue & Packing",
-      description: "Kitchen, toilet, hotel tissue and packing materials"
+      title: "Festival Specials",
+      description: "Seasonal decorations, festival essentials, and celebration items"
     },
     {
       image: disposableImage,
-      title: "Plastic Essentials",
-      description: "Quality plastic packing materials for all your needs"
+      title: "Home Accessories",
+      description: "Stylish home decor accessories, organizers, and lifestyle products"
     },
     {
       image: tissueImage,
-      title: "Event Materials",
-      description: "Marriage and festival packing materials in bulk"
+      title: "Party Essentials",
+      description: "Complete party supplies, event decorations, and celebration materials"
     }
   ];
 
@@ -31,11 +31,11 @@ export const HomeTools = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-            <span className="text-secondary">Home</span> Essentials
+            <span className="text-secondary">Trending</span> & Special Items
           </h2>
           <div className="w-24 h-1 bg-gradient-festive mx-auto mb-6"></div>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Quality home tools and essentials for everyday use
+            Latest trends, seasonal specials, and must-have celebration essentials
           </p>
         </div>
 
